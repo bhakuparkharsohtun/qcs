@@ -1,0 +1,30 @@
+E:\QCVBA1\QCbreeze\bin\Debug\QCbreeze.dll
+E:\QCVBA1\QCbreeze\bin\Debug\QCbreeze.pdb
+E:\QCVBA1\QCbreeze\bin\Debug\QCbreeze.xml
+E:\QCVBA1\QCbreeze\bin\Debug\QCbreeze.dll.manifest
+E:\QCVBA1\QCbreeze\bin\Debug\QCbreeze.vsto
+E:\QCVBA1\QCbreeze\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.vbproj.AssemblyReference.cache
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.Resources.resources
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.vbproj.GenerateResource.cache
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.vbproj.CoreCompileInputs.cache
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.vbproj.CopyComplete
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.dll
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.xml
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.pdb
+E:\QCVBA1\QCbreeze\obj\Debug\QCbreeze.Ribbon1.resources
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\QCbreeze.dll
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\QCbreeze.pdb
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\QCbreeze.xml
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\QCbreeze.dll.manifest
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\QCbreeze.vsto
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.vbproj.AssemblyReference.cache
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.Ribbon1.resources
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.Resources.resources
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.vbproj.GenerateResource.cache
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.vbproj.CoreCompileInputs.cache
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.vbproj.CopyComplete
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.dll
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.xml
+C:\Users\bhakupar.kharsohtun\OneDrive - Chillibreeze Solutions Pvt. Ltd\2024\QCbreeze\obj\Debug\QCbreeze.pdb
